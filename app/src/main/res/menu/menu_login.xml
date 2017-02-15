@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.trucklog.LoginActivity">
+    <item
+        android:id="@+id/action_load"
+        android:orderInCategory="100"
+        android:title="@string/loads_settings"
+        android:icon="@drawable/ic_drive_eta_black_24dp"
+
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/logout_settings"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        app:showAsAction="always" />
+
+</menu>

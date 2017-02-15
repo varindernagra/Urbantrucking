@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.trucklog.LoginActivity"
+    android:background="@color/colorPrimary"
+    android:padding="20dp">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:text="LOG IN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_margin="20dp" />
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:inputType="textPersonName"
+                android:hint="Email Address"
+                android:ems="10"
+                android:gravity="center"
+                android:layout_marginTop="40dp"
+                android:textColor="@android:color/white"
+                android:background="@null"
+                android:id="@+id/txt_login_email" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/alphaWhite"></View>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:inputType="textPassword"
+                android:password="true"
+                android:hint="Password"
+                android:ems="10"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:textColor="@android:color/white"
+                android:background="@null"
+                android:id="@+id/txt_login_password" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/alphaWhite"></View>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/transparent_round_rectangle"
+                android:text="go"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="50dp"
+                android:id="@+id/bt_login" />
+
+
+
+
+</LinearLayout>

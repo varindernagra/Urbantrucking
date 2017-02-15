@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.0_95cabcfe96d340147fee1cffb300cf2a94424f90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.0_8f9d20108286baa9e36af145e01ab041ccbf1450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_8b4462376a3c16f42018af0aecac2ec4d7de1c0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_28848ef91a1fe00410d37cd091343d1f298e0016/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.0_c95b155a90e395847e6e3dd945f75fff7fe2bb88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.0_36751badbb212cda83da0930b9616425b15dfef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_73eeae6256acaff10b83664f000247870b73dd50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.0_a8b4ed0106d8a32e05d0e50a2af90fd90d9c01d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/android_sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_7887bdc40596a9d2ce74b48a6f85feb9d6b4764b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_49ace23d583d5af34cb4cc3e5898cb4feb9db112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.0_d976657accc23964115a7c65bb69aaf290f3f166/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_2621508dfc27f5507468bf4424c43a6b9f078c5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_12fa38b7c0a2b164a70d5264365714461875ba2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_990b54320fe6b08ff3ce8c81fb9b700efbf7fb58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rock/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.8.3/854b49396e1e9f9bb0ab025062ddb49c4ed65ca1/engine.io-client-0.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="854b49396e1e9f9bb0ab025062ddb49c4ed65ca1">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.8.3_0e23231b4a0bd82e6ac131b67e80d3a3b64154c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.0_1932eacb7f94a619e1a8a7705810d406adb135af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_90f7104de5ba473df4aa33e8073096f032bee48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_216f987b1ea1a5fef5de9613e4f5a7ad737458d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.0_3655ebd642b3ad1053a15b317de37b96764361d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.0_a417a71a89f70330f27b657c09ae6508fb2e3e4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rock/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_43af1cae7995cf01957c28f8531f1255df1acacd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_ce8781a27d4999704252a5f8c1cd8b61f397dd1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.0_02723c0d5d2a84a3d4c7c71b122c768b70f2f6f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_a6422c88590860b7d96b34efeb8172c790f36bb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.0_99ba78f1d5cc72444f2598a4aa5bb1e70621b102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.0_5e5c2d970f11d1abd3d71806a193d5369efd9e65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_64e92ba96125c887e0899975e569df161d64e08b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.0_e1996a5317ea5aa1569c1b929b9411fe871698a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25efb5a85ebd3658dd023f6d6a57632ab5363343">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c31878fa45664cae68dd73430c33576873529ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.0_12f06ed8d043ef94f7258b7fb900ee8a1682c3bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_ab52a7643bb61067348e414b1260d1c0440d6be5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_64a821b49ccb2bbe3672756d795ea598904c309e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.0_79742646b46abcefcf90e7f7a68fc6b2252ac5e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rock/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_8c67651dc90bf31a54efbb01152b44e08660898c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.0_e100a01180ec33f490399b6a9976fc4ff5655510/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.0_690541ce357fc215bd5ec86a56fb49d9e4f9d7bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f9bb692e533532b8839bd30e5089f22e2e414c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_ce66cf29ed1b4e53b8e356412c2cc7eb5739a496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.0_d2c511257f72ed060bfe8359eac41f6e4a9ad86b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_e0d45d066c3a1cd45537ddb9445c1505453da901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_0e02f892b2f82acb5cf212b991ecd6b9037fa731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_3f5efb11111916e454f153534849bdb99d131e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.0_10c3616184b9d9cd591aa63ecd520a932c43d212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_638e1d4cbb71f2a8e861e9518366d2b8a1668f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.0_8f026554bd36ee254d493c6ee6324068ea198c7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_660fa1991642bc662908b052e1cac34af66e7d82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.0_50c2a4b92cce03c35605dc45130c334d84383daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.0_80e51726d82131ef46c785961cb0386b6e9e7637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_15b380040067dc0efaff4574beb202e9f36be61e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_a5694331c33a68c6f49eecaacdb5f4984881d7de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.0_e8e7d175d0369027066b31f07b2c7a67a7d6ecaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_f3da3f3217dcc13d0985e749175a32e695ad5658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_8d1d1287a2da60b0f9e1fa86bdfc73263629514f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_f289b49ade73b170c3f95ded510f1736208fb72a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rock/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_685a8223078161ba1930437c4e960002499dd71d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_258610830d61711bb0abf3006ddd2b7c9222fd4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.0_2581929643e420a878bb881f44e733f013ab0f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_f47d8932a450c6eae26b9b1b9a47089c60205b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_20ef15bebc9450f35d100516fd4f98eff7eb60d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rock/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.8.3/b30500232ff0668a47c9f91f02e6935457a52fb5/socket.io-client-0.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b30500232ff0668a47c9f91f02e6935457a52fb5">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.8.3_62914d5a68e3ca86494b076400128d2fc4526cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.0_b7ed6944f2e20627033a473b25df901256132cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_11963ee5e013faae9bb6e683b1a309c84e9e3523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_b916065cce39bda8ebcfd4c765bf2daf277c011b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.0_36bf946c20a2142410aa065e8db533e045e768e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_659ee03d0c03fed87d90d4fb70f37a2da27e41d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.0_3798d4f73259ce0af4cdf225219e5ea844d927f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_ea248abaad39a9a9fb7ed988c05ab7c17b24bed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.0_3622c58f4a28509f1364dd32dc4861c0b2dcc9c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_086c1d69d093a761eb347353c70b37ccce466ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.0_0df14dd51e437526a459d6bbb5cdcb7eb06f7de7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8457292f9dc16e6cc69c01ac862a7811bd9992b4">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fe7ab6a8ed767bc6fa7d7680c1e576916718e39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_86dc0d7a06b068d6c962272a341e6702596a632a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.0_53b634c3928a97154742e47db43524506434bd4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.kaopiz/kprogresshud/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="303f3c19296009125297a0cf7971c55c55ec0d6f">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.kaopiz-kprogresshud-1.0.5_879cce28c677e8c24d21a7b44981081eea32bb38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/TruckLog/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.0_b41efeae0185b8269985465737f5f40106691662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rock/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Work/TruckLog/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_3289c7829e11445802a6cb9c5a8f59299524892f/classes.dex" />
+    </item>
+
+</items>
