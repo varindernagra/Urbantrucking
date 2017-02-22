@@ -8,7 +8,7 @@ import okhttp3.MediaType;
 
 public class Constants {
     public static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
-    public static final String SERVER_URL = "https://test.trucklog.in/api/pitch/";
+    public static final String SERVER_URL = "https://urbantucking.com/api/pitch/";
 
     /**
      * TOGGLE BUTTONS FOR LOAD
