@@ -32,7 +32,7 @@ public class LoadService extends Service {
 
     private Socket mSocket;{
         try {
-            mSocket = IO.socket("https://test.trucklog.in");///socket.io
+            mSocket = IO.socket("https://urbantucking.com");///socket.io
         } catch (URISyntaxException e) {}
     }
 
